@@ -1,0 +1,6 @@
+{
+  "name": "Premium Gym & Management Dashboard",
+  "description": "A luxury, conversion-focused gym website and complete fitness management dashboard featuring interactive schedules, a BMI calculator, member subscriptions, class booking, and trainer availability tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
